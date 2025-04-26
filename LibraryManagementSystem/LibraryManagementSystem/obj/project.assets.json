@@ -1809,11 +1809,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/muminemuroglu/Desktop/LibraryManagementSystem/LibraryManagementSystem/LibraryManagementSystem.csproj",
+      "projectUniqueName": "/Users/muminemuroglu/Documents/LibraryManagementSystem/LibraryManagementSystem/LibraryManagementSystem/LibraryManagementSystem.csproj",
       "projectName": "LibraryManagementSystem",
-      "projectPath": "/Users/muminemuroglu/Desktop/LibraryManagementSystem/LibraryManagementSystem/LibraryManagementSystem.csproj",
+      "projectPath": "/Users/muminemuroglu/Documents/LibraryManagementSystem/LibraryManagementSystem/LibraryManagementSystem/LibraryManagementSystem.csproj",
       "packagesPath": "/Users/muminemuroglu/.nuget/packages/",
-      "outputPath": "/Users/muminemuroglu/Desktop/LibraryManagementSystem/LibraryManagementSystem/obj/",
+      "outputPath": "/Users/muminemuroglu/Documents/LibraryManagementSystem/LibraryManagementSystem/LibraryManagementSystem/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/muminemuroglu/.nuget/NuGet/NuGet.Config"
