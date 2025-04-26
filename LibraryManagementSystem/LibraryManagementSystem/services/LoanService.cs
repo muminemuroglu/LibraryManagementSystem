@@ -73,7 +73,7 @@ namespace LibraryManagementSystem.Services
 
 
 
-        // Ödünç alma işlemi
+        // Ödünç güncelleme işlemi
         public int UpdateLoan(Loan loan)
         {
             int result = 0;

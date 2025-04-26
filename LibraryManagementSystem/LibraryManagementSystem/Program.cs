@@ -67,7 +67,7 @@ namespace LibraryManagementSystem
                 Console.WriteLine("2. Tüm Kitapları Listele");
                 Console.WriteLine("3. Kitapları Güncelle");
                 Console.WriteLine("4. Kitap Silme");
-                Console.WriteLine("5.Kitap ID'ye Göre Arama");
+                Console.WriteLine("5. Kitap ID'ye Göre Arama");
                 Console.WriteLine("6. Kitap İsmine Göre Arama");
                 Console.WriteLine("7. Kitap Bilgilerini Yazar Bilgileri İle Beraber Listeleme");
                 Console.WriteLine("8. Sayfaya Göre Kitap Listeleme");
