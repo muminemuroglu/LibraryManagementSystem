@@ -12,5 +12,33 @@ Bu proje bir **Kütüphane Yönetim Sistemi**'dir. Temel ve ileri seviye veri ta
 - 🔍 Kitap arama fonksiyonu
 
 ---
-📸 Ekran Görüntüleri
+## 📸 Ekran Görüntüleri
+
+-Veri Tabanı Yapısı
+
 ![Veri Tabanı Yapısı](Images/VeriTabaniYapisi.png)
+
+-Giriş Ekranı
+
+![MainMenu](Images/MainMenu.png)
+
+-Yazar İşlemleri
+
+![AuthorMenu](Images/ShowAuthorMenu.png)
+
+Kitap İşlemleri
+
+![BookMenu](Images/ShowBookMenu.png)
+
+-Ödünç İşlemleri
+
+![LoansMenu](Images/ShowLoansMenu.png)
+
+-Üye İşlemleri
+
+![MemberMenu](Images/ShowMemberMenu.png)
+
+
+
+
+
