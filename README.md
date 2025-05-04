@@ -20,23 +20,23 @@ Bu proje bir **Kütüphane Yönetim Sistemi**'dir. Temel ve ileri seviye veri ta
 
 -Giriş Ekranı
 
-![MainMenu](Images/MainMenu.png)
+<img src="Images/MainMenu.png" alt="Mimari Diagram" width="500"/>
 
 -Yazar İşlemleri
 
-![AuthorMenu](Images/ShowAuthorMenu.png)
+<img src="Images/ShowAuthorMenu.png" alt="Mimari Diagram" width="500"/>
 
 -Kitap İşlemleri
 
-![BookMenu](Images/ShowBookMenu.png)
+<img src="Images/ShowBookMenu.png" alt="Mimari Diagram" width="500"/>
 
 -Ödünç İşlemleri
 
-![LoansMenu](Images/ShowLoansMenu.png)
+<img src="Images/ShowLoansMenu.png" alt="Mimari Diagram" width="500"/>
 
 -Üye İşlemleri
 
-(<img src="Images/ShowMemberMenu.png" alt="Mimari Diagram" width="500"/>
+<img src="Images/ShowMemberMenu.png" alt="Mimari Diagram" width="500"/>
 
 
 
