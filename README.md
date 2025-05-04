@@ -13,4 +13,4 @@ Bu proje bir **Kütüphane Yönetim Sistemi**'dir. Temel ve ileri seviye veri ta
 
 ---
 📸 Ekran Görüntüleri
-![Veri Tabanı Yapısı](images/VeriTabaniYapisi.png)
+![Veri Tabanı Yapısı](Images/VeriTabaniYapisi.png)
