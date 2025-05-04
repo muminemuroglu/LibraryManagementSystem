@@ -36,7 +36,7 @@ Bu proje bir **Kütüphane Yönetim Sistemi**'dir. Temel ve ileri seviye veri ta
 
 -Üye İşlemleri
 
-![MemberMenu](<img src="Images/ShowMemberMenu.png" alt="Mimari Diagram" width="300"/>
+![MemberMenu](<img src="Images/ShowMemberMenu.png" alt="Mimari Diagram" width="400"/>
 
 
 
