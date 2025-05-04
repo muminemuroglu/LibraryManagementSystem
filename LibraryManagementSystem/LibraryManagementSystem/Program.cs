@@ -616,7 +616,7 @@ namespace LibraryManagementSystem
                             {
                                 foreach (var item in loansByDates)
                                 {
-                                    Console.WriteLine(item.LoanID + " " + item.BookID + " " + item.MemberID + " " + item.LoanDate + " " + item.ReturnDate);
+                                    Console.WriteLine(item.LoanID + " " + item.BookID + " " + item.Title + " " + item.MemberID + " " + item.LoanDate + " " + item.ReturnDate);
                                 }
                             }
                             else

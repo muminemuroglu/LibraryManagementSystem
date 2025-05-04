@@ -208,7 +208,7 @@ namespace LibraryManagementSystem.Services
             return bookWithAuthorsList;
         }
 
-        //Girilen paremetre değerine göre kitaplar tablosunu 20 şerli olarak getiren prosedür.
+        //Girilen paremetre değerine göre kitaplar tablosunu 10'arlı olarak getiren prosedür.
         public List<Book> GetBooksByPage(int page)
         {
             List<Book> books = new List<Book>();
