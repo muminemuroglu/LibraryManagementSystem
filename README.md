@@ -26,7 +26,7 @@ Bu proje bir **Kütüphane Yönetim Sistemi**'dir. Temel ve ileri seviye veri ta
 
 ![AuthorMenu](Images/ShowAuthorMenu.png)
 
-Kitap İşlemleri
+-Kitap İşlemleri
 
 ![BookMenu](Images/ShowBookMenu.png)
 
@@ -36,7 +36,7 @@ Kitap İşlemleri
 
 -Üye İşlemleri
 
-![MemberMenu](Images/ShowMemberMenu.png)
+![MemberMenu](<img src="Images/ShowMemberMenu.png" alt="Mimari Diagram" width="300"/>
 
 
 
